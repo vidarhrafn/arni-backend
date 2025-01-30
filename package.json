@@ -2,6 +2,7 @@
   "name": "arni-backend",
   "version": "1.0.0",
   "description": "Bakenda API fyrir Árni spjallmenni",
+  "type": "module",
   "main": "api/chat.js",
   "dependencies": {
     "openai": "^4.0.0"
